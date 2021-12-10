@@ -1,0 +1,35 @@
+C:\Users\Samil Gonzalez\source\repos\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.config
+C:\Users\Samil Gonzalez\source\repos\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+C:\Users\Samil Gonzalez\source\repos\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+C:\Users\Samil Gonzalez\source\repos\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Registrar.resources
+C:\Users\Samil Gonzalez\source\repos\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+C:\Users\Samil Gonzalez\source\repos\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reconocimiento.resources
+C:\Users\Samil Gonzalez\source\repos\Reconocimiento facial\Reconocimiento facial\obj\Debug\ProyectoFinal de Reconocimiento SyW.csproj.GenerateResource.cache
+C:\Users\Samil Gonzalez\source\repos\Reconocimiento facial\Reconocimiento facial\obj\Debug\ProyectoFinal de Reconocimiento SyW.csproj.CoreCompileInputs.cache
+C:\Users\Samil Gonzalez\source\repos\Reconocimiento facial\Reconocimiento facial\obj\Debug\ProyectoFinal de Reconocimiento SyW.csproj.CopyComplete
+C:\Users\Samil Gonzalez\source\repos\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+C:\Users\Samil Gonzalez\source\repos\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+C:\Users\wilfr\Downloads\ProyectoFinal DCU\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.config
+C:\Users\wilfr\Downloads\ProyectoFinal DCU\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+C:\Users\wilfr\Downloads\ProyectoFinal DCU\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+C:\Users\wilfr\Downloads\ProyectoFinal DCU\Reconocimiento facial\obj\Debug\ProyectoFinal de Reconocimiento SyW.csproj.AssemblyReference.cache
+C:\Users\wilfr\Downloads\ProyectoFinal DCU\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Registrar.resources
+C:\Users\wilfr\Downloads\ProyectoFinal DCU\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+C:\Users\wilfr\Downloads\ProyectoFinal DCU\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reconocimiento.resources
+C:\Users\wilfr\Downloads\ProyectoFinal DCU\Reconocimiento facial\obj\Debug\ProyectoFinal de Reconocimiento SyW.csproj.GenerateResource.cache
+C:\Users\wilfr\Downloads\ProyectoFinal DCU\Reconocimiento facial\obj\Debug\ProyectoFinal de Reconocimiento SyW.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\Downloads\ProyectoFinal DCU\Reconocimiento facial\obj\Debug\ProyectoFinal de Reconocimiento SyW.csproj.CopyComplete
+C:\Users\wilfr\Downloads\ProyectoFinal DCU\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+C:\Users\wilfr\Downloads\ProyectoFinal DCU\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+C:\Users\Samil Gonzalez\source\repos\ProyectoFinal DCqU\ProyectoFinal DCU\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.config
+C:\Users\Samil Gonzalez\source\repos\ProyectoFinal DCqU\ProyectoFinal DCU\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+C:\Users\Samil Gonzalez\source\repos\ProyectoFinal DCqU\ProyectoFinal DCU\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+C:\Users\Samil Gonzalez\source\repos\ProyectoFinal DCqU\ProyectoFinal DCU\Reconocimiento facial\obj\Debug\ProyectoFinal de Reconocimiento SyW.csproj.AssemblyReference.cache
+C:\Users\Samil Gonzalez\source\repos\ProyectoFinal DCqU\ProyectoFinal DCU\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Registrar.resources
+C:\Users\Samil Gonzalez\source\repos\ProyectoFinal DCqU\ProyectoFinal DCU\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+C:\Users\Samil Gonzalez\source\repos\ProyectoFinal DCqU\ProyectoFinal DCU\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reconocimiento.resources
+C:\Users\Samil Gonzalez\source\repos\ProyectoFinal DCqU\ProyectoFinal DCU\Reconocimiento facial\obj\Debug\ProyectoFinal de Reconocimiento SyW.csproj.GenerateResource.cache
+C:\Users\Samil Gonzalez\source\repos\ProyectoFinal DCqU\ProyectoFinal DCU\Reconocimiento facial\obj\Debug\ProyectoFinal de Reconocimiento SyW.csproj.CoreCompileInputs.cache
+C:\Users\Samil Gonzalez\source\repos\ProyectoFinal DCqU\ProyectoFinal DCU\Reconocimiento facial\obj\Debug\ProyectoFinal de Reconocimiento SyW.csproj.CopyComplete
+C:\Users\Samil Gonzalez\source\repos\ProyectoFinal DCqU\ProyectoFinal DCU\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+C:\Users\Samil Gonzalez\source\repos\ProyectoFinal DCqU\ProyectoFinal DCU\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
